@@ -11,7 +11,7 @@
 
 - **Runes & Scripts**: `Solidity`, `Vyper`, `Huff`, `Rust`
 - **Domains & Realms**: `Ethereum`, `Tezos`, `Solana`, `Polkadot`
-- **Smithing Tools**: `Foundry`, `Hardhat`
+- **Smithing Tools**: `Foundry`, `Hardhat`, `Anchor`
 - **Magical Artifacts**: `Chainlink Oracles`, `TheGraph Scrolls`, `IPFS Chests`
 - **Specializations**: `Contract Smithing`, `Rune Auditing`, `Potion Brewing (DeFi)`, `Relic Forging (NFT)`
 
